@@ -23,3 +23,6 @@ var app = {
 
 
 app.initialize();
+
+document.getElementById("demo").onclick = function () { var body = document.getElementsByTagName('body')[0];
+body.style.backgroundImage = 'url(C:\Users\ageary\Desktop\InnovationChallengeApp\IC\www\img\SymphonyShot)';};

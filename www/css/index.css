@@ -21,21 +21,23 @@
 }
 
 body {
+background-color: darkgrey;
     background-image: url(../img/MetlifeAppBackground.jpg);
    background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
-   object-fit: scale-down;
-	width: 50px;
+   object-fit: scale-down;	
     
 }
 button{
 
   position: relative;
-  top: 308px;
-  left: 715px;
-padding: 0;
+  top: 369px;
+  left: 1252px;
+padding: 0px 0px;
 border: none;
 background: none;
+width: 3.5in;  height: 2.6in;
+cursor: pointer;
 }
 
